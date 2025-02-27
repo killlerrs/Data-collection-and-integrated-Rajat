@@ -1,0 +1,1 @@
+This project integrates traffic, weather, and event data from separate sources into a single dataset. The integrated dataset is then cleaned and normalized for further analysis. The project utilizes Python's Pandas library for data manipulation and the Scikit-learn library for data normalization.
